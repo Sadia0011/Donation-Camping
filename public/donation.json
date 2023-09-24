@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/MZ823ZM/Health.png",
+      "title": "Medical Supplies for COVID Relief",
+      "category": "Health",
+      "category_bg_color": "blue",
+      "card_bg_color": "blue",
+      "text_button_bg_color": "blue",
+      "description": "Help provide essential medical supplies and support to healthcare workers on the frontlines of the COVID-19 pandemic. Your donation will contribute to the purchase of personal protective equipment, ventilators, and other critical supplies to save lives.",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/G3tgQJL/Education.png",
+      "title": "Scholarships for Underprivileged Students",
+      "category": "Education",
+      "category_bg_color": "orange",
+      "card_bg_color": "orange",
+      "text_button_bg_color": "orange",
+      "description": "Support bright and motivated students from disadvantaged backgrounds by funding scholarships for their education. Your contribution will help break the cycle of poverty and provide access to quality education for deserving individuals.",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/3zQbSyr/Food.png",
+      "title": "Emergency Food Aid for Families",
+      "category": "Food",
+      "category_bg_color": "red",
+      "card_bg_color": "red",
+      "text_button_bg_color": "red",
+      "description": "Join us in the fight against hunger by donating to provide emergency food aid to families facing food insecurity. Your generosity will help supply nutritious meals and groceries to those in need during difficult times.",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/q7WMhhP/Clothing.png",
+      "title": "Warm Clothing for Winter",
+      "category": "Clothing",
+      "category_bg_color": "yellow",
+      "card_bg_color": "yellow",
+      "text_button_bg_color": "yellow",
+      "description": "Help keep individuals warm during the winter season by donating warm clothing items such as jackets, sweaters, and blankets. Your contribution will provide comfort and protection to those in need.",
+      "price": 40
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/MZ823ZM/Health.png",
+      "title": "Support Medical Research",
+      "category": "Health",
+      "category_bg_color": "blue",
+      "card_bg_color": "blue",
+      "text_button_bg_color": "blue",
+      "description": "Contribute to groundbreaking medical research and advancements in healthcare. Your donation will fund research projects aimed at finding cures and improving treatments for various diseases and health conditions.",
+      "price": 75
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/G3tgQJL/Education.png",
+      "title": "Digital Learning Tools for Students",
+      "category": "Education",
+      "category_bg_color": "orange",
+      "card_bg_color": "orange",
+      "text_button_bg_color": "orange",
+      "description": "Support remote learning by providing digital learning tools and resources to students. Your contribution will help bridge the digital divide and ensure that students have access to quality education online.",
+      "price": 25
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/3zQbSyr/Food.png",
+      "title": "Meals for Homeless Individuals",
+      "category": "Food",
+      "category_bg_color": "red",
+      "card_bg_color": "red",
+      "text_button_bg_color": "red",
+      "description": "Help provide hot meals and essential supplies to homeless individuals in your community. Your donation will make a significant impact on the lives of those experiencing homelessness.",
+      "price": 15
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/q7WMhhP/Clothing.png",
+      "title": "Professional Clothing for Job Seekers",
+      "category": "Clothing",
+      "category_bg_color": "yellow",
+      "card_bg_color": "yellow",
+      "text_button_bg_color": "yellow",
+      "description": "Support job seekers in need by donating professional clothing items such as suits and business attire. Your contribution will empower individuals to succeed in interviews and secure employment.",
+      "price": 35
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/MZ823ZM/Health.png",
+      "title": "Mental Health Counseling Services",
+      "category": "Health",
+      "category_bg_color": "blue",
+      "card_bg_color": "blue",
+      "text_button_bg_color": "blue",
+      "description": "Provide access to mental health counseling and support services for individuals facing emotional and psychological challenges. Your donation will promote mental well-being and recovery.",
+      "price": 60
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/G3tgQJL/Education.png",
+      "title": "Books for School Libraries",
+      "category": "Education",
+      "category_bg_color": "orange",
+      "card_bg_color": "orange",
+      "text_button_bg_color": "orange",
+      "description": "Enhance educational resources by donating books to school libraries. Your contribution will inspire a love for reading and learning among students of all ages.",
+      "price": 40
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/3zQbSyr/Food.png",
+      "title": "Community Garden Project",
+      "category": "Food",
+      "category_bg_color": "red",
+      "card_bg_color": "red",
+      "text_button_bg_color": "red",
+      "description": "Support community gardening initiatives that provide fresh, locally grown produce to underserved neighborhoods. Your donation will promote sustainable food sources and community engagement.",
+      "price": 30
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/q7WMhhP/Clothing.png",
+      "title": "Children's Clothing Drive",
+      "category": "Clothing",
+      "category_bg_color": "yellow",
+      "card_bg_color": "yellow",
+      "text_button_bg_color": "yellow",
+      "description": "Donate children's clothing items to benefit families in need. Your contribution will ensure that children have access to clean and comfortable clothing as they grow.",
+      "price": 20
+    }
+  ]
+  
