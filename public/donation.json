@@ -6,7 +6,7 @@
       "category": "Health",
       "category_bg_color": "#ADD8E6",
       "card_bg_color": "blue",
-      "text_button_bg_color": "blue",
+      "text_button_bg_color": "#E5FFFF",
       "description": "Help provide essential medical supplies and support to healthcare workers on the frontlines of the COVID-19 pandemic. Your donation will contribute to the purchase of personal protective equipment, ventilators, and other critical supplies to save lives.",
       "price": 50
     },
@@ -16,7 +16,7 @@
       "title": "Scholarships for Underprivileged Students",
       "category": "Education",
       "category_bg_color": "#FED8B1",
-      "card_bg_color": "orange",
+      "card_bg_color": "#FF8C00",
       "text_button_bg_color": "#FECB98",
       "description": "Support bright and motivated students from disadvantaged backgrounds by funding scholarships for their education. Your contribution will help break the cycle of poverty and provide access to quality education for deserving individuals.",
       "price": 30
@@ -28,7 +28,7 @@
       "category": "Food",
       "category_bg_color": " #FFCCCB",
       "card_bg_color": "red",
-      "text_button_bg_color": "red",
+      "text_button_bg_color": "#FFE5E4",
       "description": "Join us in the fight against hunger by donating to provide emergency food aid to families facing food insecurity. Your generosity will help supply nutritious meals and groceries to those in need during difficult times.",
       "price": 20
     },
@@ -39,7 +39,7 @@
       "category": "Clothing",
       "category_bg_color": "#71F8CC",
       "card_bg_color": "green",
-      "text_button_bg_color": "green",
+      "text_button_bg_color": "#D3FFD0",
       "description": "Help keep individuals warm during the winter season by donating warm clothing items such as jackets, sweaters, and blankets. Your contribution will provide comfort and protection to those in need.",
       "price": 40
     },
@@ -50,7 +50,7 @@
       "category": "Health",
       "category_bg_color": "#ADD8E6",
       "card_bg_color": "blue",
-      "text_button_bg_color": "blue",
+      "text_button_bg_color": "#E5FFFF",
       "description": "Contribute to groundbreaking medical research and advancements in healthcare. Your donation will fund research projects aimed at finding cures and improving treatments for various diseases and health conditions.",
       "price": 75
     },
@@ -60,7 +60,7 @@
       "title": "Digital Learning Tools for Students",
       "category": "Education",
       "category_bg_color": "#FED8B1",
-      "card_bg_color": "orange",
+      "card_bg_color": "#FF8C00",
       "text_button_bg_color": "#FECB98",
       "description": "Support remote learning by providing digital learning tools and resources to students. Your contribution will help bridge the digital divide and ensure that students have access to quality education online.",
       "price": 25
@@ -72,7 +72,7 @@
       "category": "Food",
       "category_bg_color": " #FFCCCB",
       "card_bg_color": "red",
-      "text_button_bg_color": "red",
+      "text_button_bg_color": "#FFE5E4",
       "description": "Help provide hot meals and essential supplies to homeless individuals in your community. Your donation will make a significant impact on the lives of those experiencing homelessness.",
       "price": 15
     },
@@ -83,7 +83,7 @@
       "category": "Clothing",
       "category_bg_color": "#71F8CC",
       "card_bg_color": "green",
-      "text_button_bg_color": "green",
+      "text_button_bg_color": "#D3FFD0",
       "description": "Support job seekers in need by donating professional clothing items such as suits and business attire. Your contribution will empower individuals to succeed in interviews and secure employment.",
       "price": 35
     },
@@ -94,7 +94,7 @@
       "category": "Health",
       "category_bg_color": "#ADD8E6",
       "card_bg_color": "blue",
-      "text_button_bg_color": "blue",
+      "text_button_bg_color": "#E5FFFF",
       "description": "Provide access to mental health counseling and support services for individuals facing emotional and psychological challenges. Your donation will promote mental well-being and recovery.",
       "price": 60
     },
@@ -104,7 +104,7 @@
       "title": "Books for School Libraries",
       "category": "Education",
       "category_bg_color": "#FED8B1",
-      "card_bg_color": "orange",
+      "card_bg_color": "#FF8C00",
       "text_button_bg_color": "#FECB98",
       "description": "Enhance educational resources by donating books to school libraries. Your contribution will inspire a love for reading and learning among students of all ages.",
       "price": 40
@@ -116,7 +116,7 @@
       "category": "Food",
       "category_bg_color": " #FFCCCB",
       "card_bg_color": "red",
-      "text_button_bg_color": "red",
+      "text_button_bg_color": "#FFE5E4",
       "description": "Support community gardening initiatives that provide fresh, locally grown produce to underserved neighborhoods. Your donation will promote sustainable food sources and community engagement.",
       "price": 30
     },
@@ -127,7 +127,7 @@
       "category": "Clothing",
       "category_bg_color": "#71F8CC",
       "card_bg_color": "green",
-      "text_button_bg_color": "green",
+      "text_button_bg_color": "#D3FFD0",
       "description": "Donate children's clothing items to benefit families in need. Your contribution will ensure that children have access to clean and comfortable clothing as they grow.",
       "price": 20
     }

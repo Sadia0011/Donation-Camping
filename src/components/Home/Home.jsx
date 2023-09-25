@@ -7,7 +7,7 @@ const Home = () => {
     const donationDatas=useLoaderData()
     return (
         <div className="font">
-            <Banner></Banner>
+            <Banner donationDatas={donationDatas}></Banner>
             <HomeDonation donationDatas={donationDatas}></HomeDonation>
         </div>
     );
