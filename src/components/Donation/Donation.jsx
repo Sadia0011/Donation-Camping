@@ -11,7 +11,7 @@ const Donation = () => {
    useEffect(()=>{
     const storedData=getStoredDataFromLocalStorage();
     if(donation.length > 0){
-        const giveDonation=donation.filter(job=>storedData.includes(job.id))
+        const giveDonation=donation.filter(data=>storedData.includes(data.id))
         console.log(giveDonation)
    setDisplayDonation(giveDonation)
     }

@@ -15,7 +15,7 @@ const DisplayDonation = ({donation}) => {
   </div>
   <div  className="p-2 text-left ">
   <h5 className="mt-2 block text-sm font-medium ">
-    <span style={{backgroundColor:text_button_bg_color,borderRadius:"8px",padding:"10px"}}>{category}</span></h5>
+    <span style={{backgroundColor:text_button_bg_color,color:card_bg_color, borderRadius:"8px",padding:"10px"}}>{category}</span></h5>
  <h2 className="mt-3 block text-2xl font-semibold text-black">{title}</h2>
  <h5 style={{color:card_bg_color}} className="flex mr-1 items-center mb-3 block text-base font-semibold">
     <BsCurrencyDollar></BsCurrencyDollar>{price}</h5>
