@@ -13,7 +13,7 @@ const Statistics = () => {
     if(AllData.length > 0){
         const giveDonation=AllData.filter(data=>storedData.includes(data.id))
         // console.log(giveDonation)
-        const total=giveDonation.map(data=>data.price).reduce((accumulator,currentValue)=>accumulator+currentValue,0);
+        const total=giveDonation.length
     
    setTotalDonation(total)
     }
@@ -22,7 +22,7 @@ const Statistics = () => {
 
 
 const data = [
-  { name: 'Total donation', value: 1000 - totalDonation },
+  { name: 'Total donation', value: 12 - totalDonation },
   { name: 'Your Donation', value: totalDonation }
 ];
 

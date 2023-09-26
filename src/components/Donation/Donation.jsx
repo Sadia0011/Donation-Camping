@@ -21,7 +21,9 @@ const Donation = () => {
   
     return (
 <div>
-        
+        {displayDonation.length === 0? (<p className="text-2xl text-center">Nothing to show</p>) :
+        <>
+        <div>
 <div className="grid grid-cols-1 gap-6 container mx-auto lg:grid-cols-2 ">
     {
         displayDonation.slice(0,dataDisplayLength).map(donation=><DisplayDonation key={donation.id}donation={donation}></DisplayDonation>)
@@ -33,7 +35,9 @@ const Donation = () => {
     className="btn border-none text-white bg-green-700 mt-8 mx-auto" > See All</button>
     </div>
     </div>
-       
+        </div>
+        </>
+}
 </div>
         
     );
