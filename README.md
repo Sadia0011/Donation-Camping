@@ -1,8 +1,7 @@
-# React + Vite
+# Donation Camp
+- A detailed donation status has shown in which category user donated and how much user donated.
+- A pie chart to show how many categories user donated their money.
+- A search button to find the category according to users preference.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Website Link
+https://6512bb51dc068e11a0a9736d--splendid-hamster-de1cbc.netlify.app/
